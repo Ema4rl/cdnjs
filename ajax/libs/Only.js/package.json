@@ -7,6 +7,14 @@
     "type": "git",
     "url": "git://github.com/Ema4rl/Only.js"
   },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/Ema4rl/Only.js.git",
+    "basePath": "dist/",
+    "files": [
+      "Only*"
+    ]
+  },
   "keywords": [
     "asset",
     "loader",
